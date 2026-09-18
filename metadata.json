@@ -1,0 +1,6 @@
+{
+  "name": "Costa Textil — Catálogo & Pedidos",
+  "description": "Catálogo digital inteligente, armado de pedidos y sistema de novedades para Costa Textil, especialistas en telas para camisería y sastrería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
